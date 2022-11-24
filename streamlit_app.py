@@ -1,2 +1,2 @@
 import streamlit
-streamlit.title('The Title of the App'}
+streamlit.title('The Title of the App')
